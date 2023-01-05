@@ -9,4 +9,5 @@ program first
     d = 40
 
     print *, a + b  + c + d
+    print *, a
 end program
