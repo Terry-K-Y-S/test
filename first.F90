@@ -5,8 +5,8 @@ program first
 
     a = 10
     b = 20
-    c = a+b
-    d = a*b
+    c = 30
+    d = 40
 
-    print *, c+d
+    print *, a + b  + c + d
 end program
